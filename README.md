@@ -21,4 +21,6 @@ B) 1 - For the consumption of the OData, there was no need to install proxy in m
        
 Going until the end of the tutorial, I could bind and show the Master-Details Fiori page, with my tables data - there were some issues, which I am still investigating.
 
-
+DAY 06/12/2016
+It was possible to get both JIRA and CATS data from their servers. So now I only the UI definition and determine which kind of data I must retrieve. The content above will help store all the time record data for some time.
+In order to get data from Jira and CATS, I used AngularJS direct inside SAPWEBIDE, instead of using SAPUI5.
